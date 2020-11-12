@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Se debe visualizar el pdf exitosamente" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-12T16:35:15" hostname="CPX-G4MX1JA1K1H" time="71.471">
+<testsuite name="Se debe visualizar el pdf exitosamente" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-12T17:28:57" hostname="CPX-G4MX1JA1K1H" time="57.196">
   <properties/>
-  <testcase name="visualizacion exitosa de pdf" classname="Se debe visualizar el pdf exitosamente" time="71.471"/>
+  <testcase name="visualizacion exitosa de pdf" classname="Se debe visualizar el pdf exitosamente" time="57.196"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Nov 12, 2020 11:35:17 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[Nov 12, 2020 12:28:58 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --lang=es,--disable-popup-b..., goog:chromeOptions: {args: [--lang=es, --disable-popup-blocking, --disable-download-notifica..., --start-maximized, --test-type, --ignore-certificate-errors, --allow-running-insecure-co..., --disable-translate, --always-authorize-plugins, --disable-extensions], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 36774
+Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 16393
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Nov 12, 2020 11:35:28 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Nov 12, 2020 12:29:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  

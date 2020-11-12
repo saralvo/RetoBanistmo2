@@ -11,9 +11,12 @@ import cucumber.api.java.es.Entonces;
 import cucumber.api.java.Before;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
+
+import static com.prueba.certificacion.userinterface.PaginaBanistmo.LEGALES;
 import static net.serenitybdd.screenplay.actors.OnStage.theActorCalled;
 import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
 import net.serenitybdd.screenplay.actions.Open;
+import net.serenitybdd.screenplay.waits.WaitUntil;
 import net.thucydides.core.annotations.Managed;
 import org.openqa.selenium.WebDriver;
 

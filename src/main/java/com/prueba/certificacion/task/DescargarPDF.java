@@ -21,5 +21,5 @@ public class DescargarPDF implements Task {
         );
     }
 
-    public static SeleccionarAprenderFacil darClick() { return instrumented(SeleccionarAprenderFacil.class); }
+    public static DescargarPDF darClick() { return instrumented(DescargarPDF.class); }
 }

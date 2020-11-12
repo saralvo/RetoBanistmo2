@@ -20,5 +20,5 @@ public class SeleccionarFATCA implements Task {
         );
     }
 
-    public static SeleccionarAprenderFacil darClick() { return instrumented(SeleccionarAprenderFacil.class); }
+    public static SeleccionarFATCA darClick() { return instrumented(SeleccionarFATCA.class); }
 }

@@ -22,5 +22,5 @@ public class SeleccionarLegales implements Task {
         );
     }
 
-    public static SeleccionarAprenderFacil darClick() { return instrumented(SeleccionarAprenderFacil.class); }
+    public static SeleccionarLegales darClick() { return instrumented(SeleccionarLegales.class); }
 }
